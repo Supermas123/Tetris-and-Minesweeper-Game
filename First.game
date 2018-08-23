@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Black</key>
+	<string>Computer</string>
+	<key>BlackType</key>
+	<string>program</string>
+	<key>City</key>
+	<string>?</string>
+	<key>Country</key>
+	<string>?</string>
+	<key>Event</key>
+	<string>Casual Game</string>
+	<key>Holding</key>
+	<string>[QBNNRRPPPP] [QBBNNRRPPPPP]</string>
+	<key>MBCAlternateVoice</key>
+	<string>com.apple.speech.synthesis.voice.Vicki</string>
+	<key>MBCBoardAngle</key>
+	<real>61.474422454833984</real>
+	<key>MBCBoardSpin</key>
+	<real>180</real>
+	<key>MBCBoardStyle</key>
+	<string>Marble</string>
+	<key>MBCListenForMoves</key>
+	<true/>
+	<key>MBCMinSearchTime</key>
+	<real>-3</real>
+	<key>MBCPieceStyle</key>
+	<string>Wood</string>
+	<key>MBCSearchTime</key>
+	<real>-3</real>
+	<key>MBCShowGameLog</key>
+	<false/>
+	<key>MBCSpeakHumanMoves</key>
+	<false/>
+	<key>MBCSpeakMoves</key>
+	<false/>
+	<key>Moves</key>
+	<string>d2d4
+d7d6
+e2e4
+g8f6
+g1f3
+e7e5
+d4e5
+f6e4
+b1c3
+e4c3
+b2c3
+d6e5
+f3e5
+d8d1
+e1d1
+b8c6
+f1c4
+c6e5
+c1f4
+e5c4
+a2a3
+f8a3
+a1a3
+c4a3
+d1e1
+a3c2
+e1f1
+e8g8
+f1g1
+c2e3
+f4e3
+c8f5
+c3c4
+c7c5
+e3c5
+a8d8
+f2f3
+d8d2
+c5f2
+d2f2
+g1f2
+f8e8
+h1d1
+e8e2
+f2e2
+h7h5
+c4c5
+b7b5
+c5c6
+a7a5
+c6c7
+b5b4
+c7c8Q
+f5c8
+h2h4
+a5a4
+g2g3
+c8f5
+e2f2
+b4b3
+d1d2
+a4a3
+f3f4
+b3b2
+d2b2
+a3b2
+f2g2
+g8f8
+g2f3
+f8e7
+f3e3
+e7d6
+e3e2
+d6d5
+e2f2
+d5d4
+f2e2
+f5e4
+e2f2
+e4d3
+f2f3
+d3f5
+f3f2
+f5e4
+f2g1
+e4d3
+g1f2
+d3e4
+f2g1
+e4d3
+g1f2
+d3f5
+f2g1
+f5e4
+g1f2
+e4d3
+f2g1
+d3e4
+g1f2
+</string>
+	<key>Position</key>
+	<string>8/5pp1/8/7p/3kbP1P/6P1/1p3K2/8 b - - 33 50</string>
+	<key>Result</key>
+	<string>1/2-1/2</string>
+	<key>StartDate</key>
+	<string>2018.04.22</string>
+	<key>StartTime</key>
+	<string>01:46:19</string>
+	<key>Variant</key>
+	<string>normal</string>
+	<key>White</key>
+	<string>Samuel Mathew</string>
+	<key>WhiteType</key>
+	<string>human</string>
+</dict>
+</plist>
